@@ -1,0 +1,5 @@
+#Maya Carla Loletha Anderson
+#July 2022
+#this program counts the number of files in current directory
+
+ls -l
